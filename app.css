@@ -1,13 +1,15 @@
-.full-container
-{
+.full-button {
     background-color: red;
 }
 
-.vacant-container
-{
+.vacant-button {
     background-color: green;
 }
-.default-status-container
-{
+
+.default-status-container {
     background-color: green;
+}
+
+.full-status-container {
+    background-color: red;
 }
